@@ -1,6 +1,6 @@
 # Shape tracker
 
-#### A simple application made to practice TDD, npm, webpack, and envirenments and dependancies
+#### A simple application made to practice TDD, npm, webpack, and environments and dependencies
 
 #### By Jacob Strong
 
