@@ -2,7 +2,7 @@
 
 #### A simple application made to practice TDD, npm, webpack, and environments and dependencies
 
-#### By Jacob Strong
+#### By Jacob Strong and Mary Marks
 
 ## Technologies Used
 
@@ -40,3 +40,4 @@ Copyright (c) 2021 Jacob Strong
 ## Contact Information
 
 Jacob Strong <a href="mailto:rjts2896@gmail.com">rjts2896@gmail.com</a>
+Mary Marks <a href="mailto:maryleemarks@gmail.com">maryleemarks@gmail.com</a>
